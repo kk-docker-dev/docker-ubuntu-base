@@ -1,4 +1,4 @@
-# Ubuntu docker base image
+# Ubuntu docker file
 
 **Distro: Focal**
 
